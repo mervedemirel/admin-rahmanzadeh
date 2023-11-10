@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_analysis_analyses",
+  "info": {
+    "displayName": "Analysis",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Analysis": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": [
+        "images"
+      ]
+    }
+  }
+}
